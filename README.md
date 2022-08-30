@@ -43,7 +43,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
       * [Project B-HOOD] - an samp gamemode based on the b-hood community.
 
    * 🌍 **Open Source Projects:**
-      - notihing...
+      - nothing...
 
    * 🎓 **Learning** - currently learning JavaScript & TypeScript for ragemp.
    * 😄 **Fun fact** - There are around 700 separate programming languages.
