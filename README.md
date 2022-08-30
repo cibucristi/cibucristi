@@ -147,6 +147,7 @@ These are some statistics from my github account.
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 [GitHub Readme Stats]:     https://github.com/anuraghazra/github-readme-stats
 [Greek mythology]:         https://en.wikipedia.org/wiki/Christian_(given_name)
+[iamCibu]:                 https://youtube.com/iamCibu/
 
 [openweathermap.org]:      https://openweathermap.org/
 [rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
