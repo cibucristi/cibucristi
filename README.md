@@ -1,48 +1,33 @@
-![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) 
+![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
 
-My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere, and I'm an 20 y.o full-stack web developer based in The Netherlands.
+My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhere, and I'm an 16 y.o junior rage:mp developer based in Romania.
 
 <p align="center">
-   <a href="https://www.instagram.com/leonardssh22/" target="_blank">
+   <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
    </a>
-   <a href="https://twitter.com/leonardssh22" target="_blank" rel="nofollow">
+   <a href="https://twitter.com/iamCibu" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
    </a>
-   <a href="https://profile.codersrank.io/user/leonardssh/" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/codersrank.png" alt="Codersrank" width="34" align="center">
-   </a>
-   <a href="https://dev.to/leonardssh" target="_blank" rel="nofollow">
+   <a href="https://dev.to/cibucristi" target="_blank" rel="nofollow">
       <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">
    </a>
-   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+   <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
    </a>
-   <a href="mailto:contact@leonard.sh" target="_blank" rel="nofollow">
+   <a href="mailto:cibucristi1@gmail.com" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
    </a>
-   <a href="https://www.facebook.com/leonardssh22" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">
-   </a>
-   <a href="https://www.youtube.com/LeonardSSH" target="_blank" rel="nofollow">
+   <a href="https://www.youtube.com/iamCibu" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
    </a>
-   <a href="https://www.twitch.tv/leonardssh22" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">
-   </a>
-   <a href="https://steamcommunity.com/id/leonardssh/" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">
-   </a>
-   <a href="https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt" target="_blank" rel="nofollow">
+   <a href="https://open.spotify.com/user/cristicaol" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
-   </a>
-   <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
    </a>
 </p>
 
 <p align="center">
-   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+   <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
@@ -52,11 +37,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP].
-      * [Personal Portfolio](https://github.com/leonardssh/leonard.sh) - my personal portfolio, [leonard.sh](https://leonard.sh/).
-      * [Resume](https://github.com/leonardssh/new-resume) - my resume, [resume.leonard.sh](https://resume.leonard.sh/)
-      <!-- * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP] -->
-      <!-- * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close! Maybe not? -->
+      * nothing for now.
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
@@ -64,26 +45,22 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
       * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP].
 
    * 🌍 **Open Source Projects:**
-      - NeoVim: [coc-discord-rpc]
-      - VS Code Extensions: [vscord]
-      - OpenWeatherMap: [auto-github-bio], [auto-twitter-bio], [auto-discord-status]
-      - Vue: [use-lanyard]
-      - ... and many, many more things you can see by exploring [my repositories]!
+      - notihing...
 
-   * 🎓 **Learning** - new stuff about the scripty version of Java.
-   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
+   * 🎓 **Learning** - currently learning JavaScript & TypeScript for ragemp.
+   * 😄 **Fun fact** - There are around 700 separate programming languages.
 
 ---
 
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with NestJS & Fastify
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS/Nuxt, Tailwind CSS/SASS
-   * **Scripting** - Python3, Bash
-   * **Datastores** - MySQL, MongoDB, Redis
-   * **Infrastucture** - Docker, Kubernetes
-   * **Tools** - Github, VS Code, NeoVim, Figma
+   * **Backend** - Typescript
+   * **Frontend** - HTML5/CSS3, JavaScript
+   * **Scripting** - Python3
+   * **Datastores** - MySQL
+   * **Infrastucture** - Docker
+   * **Tools** - Github, VS Code, Sublime
    * **Other** - Linux
 
 ---
@@ -94,10 +71,10 @@ These are some statistics from my github account.
    <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cibucristi&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=LeonardSSH&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&extra=inversify/InversifyJS;ragempcommunity/ragemp-types;openmultiplayer/web;liberty-mp/ng-select,ng2-tooltip-directive,angular-fontawesome,ngx-smooth-dnd,smooth-dnd" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=cibucristi&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&extra=inversify/InversifyJS;ragempcommunity/ragemp-types;openmultiplayer/web;liberty-mp/ng-select,ng2-tooltip-directive,angular-fontawesome,ngx-smooth-dnd,smooth-dnd" />
     </td>
   </tr>
 </table>
@@ -171,6 +148,6 @@ These are some statistics from my github account.
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 [GitHub Readme Stats]:     https://github.com/anuraghazra/github-readme-stats
-[Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)    
+[Greek mythology]:         https://en.wikipedia.org/wiki/Christian_(given_name)
 
 [openweathermap.org]:      https://openweathermap.org/
