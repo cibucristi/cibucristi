@@ -28,7 +28,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 
 <p align="center">
    <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+      <img src="https://lanyard-profile-readme.vercel.app/api/773576280150900749?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
    </a>
 </p>
 
