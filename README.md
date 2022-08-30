@@ -149,3 +149,4 @@ These are some statistics from my github account.
 [Greek mythology]:         https://en.wikipedia.org/wiki/Christian_(given_name)
 
 [openweathermap.org]:      https://openweathermap.org/
+[rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
