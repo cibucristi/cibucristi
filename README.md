@@ -28,7 +28,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 
 <p align="center">
    <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/773576280150900749?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+      <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/773576280150900749)](https://discord.com/users/773576280150900749)" alt="Discord Presence" align="center">
    </a>
 </p>
 
@@ -37,12 +37,10 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * nothing for now.
+      * beta-tester & support bugs at [rage.b-hood.ro].
       
    * ✨ **I'm maintaining:**
-      * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
-      * [VSCord] - a fully customizable VS Code extension to get Discord Rich Presence integration.
-      * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP].
+      * [Project B-HOOD] - an samp gamemode based on the b-hood community.
 
    * 🌍 **Open Source Projects:**
       - notihing...
