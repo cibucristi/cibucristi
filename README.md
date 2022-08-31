@@ -43,7 +43,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
       * [Project B-HOOD] - an samp gamemode based on the b-hood community.
 
    * 🌍 **Open Source Projects:**
-      - notihing...
+      - Index b-hood.ro: [index-bhood]
 
    * 🎓 **Learning** - currently learning JavaScript & TypeScript for ragemp.
    * 😄 **Fun fact** - There are around 700 separate programming languages.
@@ -148,3 +148,4 @@ These are some statistics from my github account.
 
 [openweathermap.org]:      https://openweathermap.org/
 [rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
+[index-bhood]:             https://github.com/cibucristi/index-b-hood
