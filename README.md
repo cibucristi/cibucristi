@@ -53,10 +53,10 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript
+   * **Backend** - Typescript, Laravel9
    * **Frontend** - HTML5/CSS3, JavaScript
    * **Scripting** - Python3
-   * **Datastores** - MySQL
+   * **Datastores** - MySQL, MongoDB
    * **Infrastucture** - Docker
    * **Tools** - Github, VS Code, Sublime
    * **Other** - Linux
