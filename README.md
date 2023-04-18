@@ -37,10 +37,10 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * beta-tester & support bugs at [rage.b-hood.ro].
+      * none
       
    * ✨ **I'm maintaining:**
-      * [Project B-HOOD] - an samp gamemode based on the b-hood community.
+      * [none
 
    * 🌍 **Open Source Projects:**
       - Index b-hood.ro: [index-bhood]
