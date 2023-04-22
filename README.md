@@ -38,10 +38,10 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * none
+      * RAGE:MP RPG Gamemode: [gamemode]
       
    * ✨ **I'm maintaining:**
-      * [none
+      * rageipl: [rageipl]
 
    * 🌍 **Open Source Projects:**
       - Index b-hood.ro: [index-bhood]
@@ -134,3 +134,4 @@ These are some statistics from my github account.
 [rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
 [index-bhood]:             https://github.com/cibucristi/index-b-hood
 [gamemode]:                https://github.com/adriantandara/rage-adrian
+[rageipl]:                 https://github.com/cibucristi/rageipl
