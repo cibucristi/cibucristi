@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
 
 My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhere, and I'm an 16 y.o junior rage:mp developer based in Romania.
+❄ Currently learning **React**.
 
 <p align="center">
    <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
