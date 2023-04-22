@@ -45,8 +45,9 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
 
    * 🌍 **Open Source Projects:**
       - Index b-hood.ro: [index-bhood]
+      - RAGE:MP RPG Gamemode: [gamemode]
 
-   * 🎓 **Learning** - currently learning JavaScript & TypeScript for ragemp.
+   * 🎓 **Learning** - currently learning TypeScript & React.
    * 😄 **Fun fact** - There are around 700 separate programming languages.
 
 ---
@@ -59,7 +60,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Scripting** - Python3, Pawn
    * **Datastores** - MySQL, MongoDB
    * **Infrastucture** - Docker
-   * **Tools** - Github, VS Code, Sublime
+   * **Tools** - Github, VS Code, Sublime Text 3, Figma
    * **Other** - Linux
 
 ---
@@ -77,9 +78,6 @@ These are some statistics from my github account.
 
 > Provided by **[GitHub Readme Stats]**
 
-[Leonard]:                 https://en.wikipedia.org/wiki/Leonard
-
-[InversifyJS]:             https://github.com/inversify
 [Atlas]:                   https://github.com/abstractFlo/atlas
 [RAGE:MP]:                 https://rage.mp
 
@@ -87,22 +85,7 @@ These are some statistics from my github account.
 
 [`discord`]:               https://discord.com/
 
-[ValetDiscordBot]:         https://github.com/ValetDiscordBot
-[Liberty Multiplayer]:     https://github.com/liberty-mp
-[RYSE Multiplayer]:        https://github.com/rysemultiplayer
-[Skippy]:                  https://github.com/skippybot
-
-[my repositories]:         https://github.com/LeonardSSH?tab=repositories
-
-[coc-discord-rpc]:         https://github.com/LeonardSSH/coc-discord-rpc
-[vscord]:                  https://github.com/LeonardSSH/vscord
-[VSCord]:                  https://github.com/LeonardSSH/vscord
-[auto-github-bio]:         https://github.com/LeonardSSH/auto-github-bio
-[auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
-[auto-discord-status]:     https://github.com/LeonardSSH/auto-discord-status
-
 [RAGEMP]:                  https://rage.mp/
-[RAGE:MP Typescript Definitions]: https://github.com/ragempcommunity/ragemp-types
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
@@ -150,3 +133,4 @@ These are some statistics from my github account.
 [openweathermap.org]:      https://openweathermap.org/
 [rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
 [index-bhood]:             https://github.com/cibucristi/index-b-hood
+[gamemode]:                https://github.com/adriantandara/rage-adrian
