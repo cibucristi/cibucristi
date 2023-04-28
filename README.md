@@ -42,6 +42,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
       
    * ✨ **I'm maintaining:**
       * rageipl: [rageipl]
+      * Bigmap: [bigmap]
 
    * 🌍 **Open Source Projects:**
       - Index b-hood.ro: [index-bhood]
@@ -135,3 +136,4 @@ These are some statistics from my github account.
 [index-bhood]:             https://github.com/cibucristi/index-b-hood
 [gamemode]:                https://github.com/adriantandara/rage-adrian
 [rageipl]:                 https://github.com/cibucristi/rageipl
+[bigmap]:                  https://github.com/cibucristi/ragemp-bigmap
