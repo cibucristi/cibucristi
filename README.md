@@ -60,9 +60,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Frontend** - HTML5/CSS3, JavaScript
    * **Scripting** - Python3, Pawn
    * **Datastores** - MySQL, MongoDB
-   * **Infrastucture** - Docker
    * **Tools** - Github, VS Code, Sublime Text 3, Figma
-   * **Other** - Linux
 
 ---
 
