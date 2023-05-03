@@ -59,7 +59,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Backend** - Typescript, Laravel9
    * **Frontend** - HTML5/CSS3, JavaScript
    * **Scripting** - Python3, Pawn
-   * **Datastores** - MySQL, MongoDB
+   * **Datastores** - MySQL, MongoDB, PostgreSQL
    * **Tools** - Github, VS Code, Sublime Text 3, Figma
 
 ---
