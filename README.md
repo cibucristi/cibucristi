@@ -33,7 +33,7 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
    </a>
 </p>
 
-<img src="[https://discordapp.com/api/guilds/576692806727499776/embed.png?style=banner3](https://discordapp.com/api/guilds/1101248512051650633/embed.png?style=banner3)">
+<img src="https://discordapp.com/api/guilds/1101248512051650633/embed.png?style=banner3">
 
 Please join if you want to contact me.
 
