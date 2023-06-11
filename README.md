@@ -63,7 +63,7 @@ Please <a href="https://discord.gg/88mNBCHHV9">join this discord server</a> if y
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript, Laravel9
-   * **Frontend** - HTML5/CSS3, JavaScript
+   * **Frontend** - HTML5/CSS3, JavaScript, React, Angular
    * **Scripting** - Python3, Pawn
    * **Datastores** - MySQL, MongoDB, PostgreSQL
    * **Tools** - Github, VS Code, Sublime Text 3, Figma
