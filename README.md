@@ -54,7 +54,7 @@ Please <a href="https://discord.gg/88mNBCHHV9">join this discord server</a> if y
       - Index b-hood.ro: [index-bhood]
       - RAGE:MP RPG Gamemode: [gamemode]
 
-   * 🎓 **Learning** - currently learning TypeScript & React.
+   * 🎓 **Learning** - currently learning TypeScript & Angular.
    * 😄 **Fun fact** - There are around 700 separate programming languages.
 
 ---
