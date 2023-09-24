@@ -44,7 +44,7 @@ Please <a href="https://discord.gg/88mNBCHHV9">join this discord server</a> if y
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * RAGE:MP RPG Gamemode: [gamemode]
+      * elysium.mp - Romanian RAGE:MP Server: [gamemode]
       
    * ✨ **I'm maintaining:**
       * rageipl: [rageipl]
@@ -138,6 +138,6 @@ These are some statistics from my github account.
 [openweathermap.org]:      https://openweathermap.org/
 [rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
 [index-bhood]:             https://github.com/cibucristi/index-b-hood
-[gamemode]:                https://github.com/adriantandara/rage-adrian
+[gamemode]:                https://elysium.mp/
 [rageipl]:                 https://github.com/cibucristi/rageipl
 [bigmap]:                  https://github.com/cibucristi/ragemp-bigmap
