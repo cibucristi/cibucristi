@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is **Christian**, and I'm a frontend developer passionate about creating engaging and user-friendly interfaces. Currently, I'm honing my skills in Angular, constantly pushing the boundaries of what I can achieve on the frontend.
+My name is **[Christian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a frontend developer passionate about creating engaging and user-friendly interfaces. Currently, I'm honing my skills in Angular, constantly pushing the boundaries of what I can achieve on the frontend.
 
 In addition to my frontend expertise, I've recently embarked on a journey into backend development. The prospect of working on the server side and understanding the complete web development stack has intrigued me.
 
@@ -11,7 +11,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
    </a>
    <a href="https://open.spotify.com/user/cristicaol" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
+      <img src="https://github.com/cibucristi/cibucristi/blob/main/spotify-2.png" alt="Spotify" width="32" align="center">
    </a>
 </p>
 
@@ -22,7 +22,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 </p>
 
 # What im working on 👷
-- An web app where designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
+- An [web app](https://aws.amazon.com/what-is/web-application/#:~:text=A%20web%20application%20is%20software,with%20customers%20conveniently%20and%20securely.) where designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
 - [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
 
