@@ -1,26 +1,14 @@
-![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
+# Hello there 👋
+My name is **Christian**, and I'm a frontend developer passionate about creating engaging and user-friendly interfaces. Currently, I'm honing my skills in Angular, constantly pushing the boundaries of what I can achieve on the frontend.
 
-My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhere, and I'm an 17 y.o rage:mp developer based in Romania.
-❄ Currently learning **Angular**.
+In addition to my frontend expertise, I've recently embarked on a journey into backend development. The prospect of working on the server side and understanding the complete web development stack has intrigued me.
 
 <p align="center">
    <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
    </a>
-   <a href="https://twitter.com/iamCibu" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
-   </a>
-   <a href="https://dev.to/cibucristi" target="_blank" rel="nofollow">
-      <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">
-   </a>
-   <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
-   </a>
    <a href="mailto:cibucristi1@gmail.com" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
-   </a>
-   <a href="https://www.youtube.com/iamCibu" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
    </a>
    <a href="https://open.spotify.com/user/cristicaol" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
@@ -33,40 +21,32 @@ My name is **[Cristian][Greek mythology]**, known as 🌴 **[iamCibu]** everywhe
    </a>
 </p>
 
----
+# What im working on 👷
+- An web app where designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
+- User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
+- [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
 
-### 👨‍💻 What I do
-      
-   * 💼 **I'm working on:**
-      * elysium.mp - Romanian RAGE:MP Server: [gamemode]
-      
-   * ✨ **I'm maintaining:**
-      * rageipl: [rageipl]
-      * Bigmap: [bigmap]
-
-   * 🌍 **Open Source Projects:**
-      - Index b-hood.ro: [index-bhood]
-      - RAGE:MP RPG Gamemode: [gamemode]
-
-   * 🎓 **Learning** - currently learning TypeScript & Angular.
-   * 😄 **Fun fact** - There are around 700 separate programming languages.
-
----
-
-### 💻 Tech Stack
-These are my favorite tech stack for building all kinds of stuff.
-
+# Tech stack 💻
    * **Backend** - Typescript
    * **Frontend** - HTML5/CSS3, JavaScript, Angular
-   * **Scripting** - Python3,
    * **Datastores** - MySQL, PostgreSQL
-   * **Tools** - Github, VS Code, Sublime Text 3, Figma
+   * **Tools** - Github, VS Code, Figma
 
----
+# Goals for 2024 🧑‍🏫
+- [x] Finish [the Angular roadmap](https://roadmap.sh/angular)
+- [ ] Finish [the Backend roadmap](https://roadmap.sh/backend)
+- [ ] Finish [the Cyber-Security roadmap](https://roadmap.sh/cyber-security)
+- [ ] Finish [the DevOps roadmap](https://roadmap.sh/devops)
+- [ ] Open alpha & promote for the biggest project of mine.
 
-### 🧾 Github Statistics
-These are some statistics from my github account.
+# Intersting things about me 🤌
+- I like dogs 🐕, especially [this kind of dogs](https://www.akc.org/dog-breeds/french-bulldog/).
+- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 2.5k subscribers.
+- I live in Romania.
 
+# Github Statistics 📊
+![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
+<br>
    <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -74,64 +54,3 @@ These are some statistics from my github account.
     </td>
   </tr>
 </table>
-
-> Provided by **[GitHub Readme Stats]**
-
-[Atlas]:                   https://github.com/abstractFlo/atlas
-[RAGE:MP]:                 https://rage.mp
-
-[use-lanyard]:             https://github.com/LeonardSSH/use-lanyard
-
-[`discord`]:               https://discord.com/
-
-[RAGEMP]:                  https://rage.mp/
-
-[Instagram]:               https://www.instagram.com/leonardssh22/
-[Twitter]:                 https://twitter.com/leonardssh_22
-[DevTo]:                   https://dev.to/leonardssh
-[Discord]:                 https://discord.com/users/290131759159443457
-[Gmail]:                   mailto:contact@leonard.sh
-[Facebook]:                https://www.facebook.com/leonardssh22
-[YouTube]:                 https://www.youtube.com/LeonardSSH
-[Twitch]:                  https://www.twitch.tv/leonardssh22
-[Steam]:                   https://steamcommunity.com/id/leonardssh/
-[Spotify]:                 https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt
-
-[HTML5]:                   https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS3]:                    https://developer.mozilla.org/en-US/docs/Web/CSS
-[PHP]:                     https://www.php.net/
-[Node.js]:                 https://nodejs.org/en/
-[JS]:                      https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[TS]:                      https://www.typescriptlang.org/
-[Sass]:                    https://sass-lang.com/
-[Vue.js]:                  https://vuejs.org/
-
-[Git]:                     https://git-scm.com/
-[npm]:                     https://npmjs.com
-[MySQL]:                   https://www.mysql.com/
-[MongoDB]:                 https://www.mongodb.com/
-[PostgreSQL]:              https://www.postgresql.org/
-[NeoVim]:                  https://neovim.io/
-[VSCode Insiders]:         https://code.visualstudio.com/insiders/
-[Sublime Text 3]:          https://www.sublimetext.com/
-[Bash]:                    https://www.gnu.org/software/bash/
-[Bootstrap]:               https://getbootstrap.com
-[Webpack]:                 https://webpack.js.org
-[Nuxt.js]:                 https://nuxtjs.org/
-[Photoshop]:               https://www.photoshop.com/en
-[Illustrator]:             https://www.adobe.com/in/products/illustrator.html
-[Linux]:                   https://www.linux.org/
-[Redis]:                   https://redis.io/
-
-[`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
-[Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
-[GitHub Readme Stats]:     https://github.com/anuraghazra/github-readme-stats
-[Greek mythology]:         https://en.wikipedia.org/wiki/Christian_(given_name)
-[iamCibu]:                 https://youtube.com/iamCibu/
-
-[openweathermap.org]:      https://openweathermap.org/
-[rage.b-hood.ro]:          https://discord.gg/EdXdfbBwrA/
-[index-bhood]:             https://github.com/cibucristi/index-b-hood
-[gamemode]:                https://elysium.mp/
-[rageipl]:                 https://github.com/cibucristi/rageipl
-[bigmap]:                  https://github.com/cibucristi/ragemp-bigmap
