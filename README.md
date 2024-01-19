@@ -27,10 +27,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 - [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
 
 # Tech stack 💻
-   * **Backend** - Typescript
-   * **Frontend** - HTML5/CSS3, JavaScript, Angular
-   * **Datastores** - MySQL, PostgreSQL
-   * **Tools** - Github, VS Code, Figma
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,vue,bots,electron,express,figma,github,js,mysql,nodejs,postgres,pr,sass,sequelize,tauri,ts,vercel,vite,vscode,postman,firebase)](https://skillicons.dev)
 
 # Goals for 2024 🧑‍🏫
 - [x] Finish [the Angular roadmap](https://roadmap.sh/angular)
