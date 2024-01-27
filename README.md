@@ -38,8 +38,10 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 
 # Intersting things about me 🤌
 - I like dogs 🐕, especially [this kind of dogs](https://www.akc.org/dog-breeds/french-bulldog/).
-- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 2.5k subscribers.
-- I live in Romania.
+- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 2.7k subscribers.
+- I live in [Romania](https://ro.wikipedia.org/wiki/Rom%C3%A2nia).
+- I am rich-full creative of bright ideas when im intersted in things I like.
+- I am a fast research, open to learn new things.
 
 # Github Statistics 📊
 ![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
