@@ -41,7 +41,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 - I have an [YouTube](https://youtube.com/@iamCibu) channel with over 2.7k subscribers.
 - I live in [Romania](https://ro.wikipedia.org/wiki/Rom%C3%A2nia).
 - I am rich-full creative of bright ideas when im intersted in things I like.
-- I am a fast research, open to learn new things.
+- I am a fast researcher, open to learn new things.
 
 # Github Statistics 📊
 ![Profile Views](https://komarev.com/ghpvc/?username=cibucristi&color=7C3138&style=flat-square) 
