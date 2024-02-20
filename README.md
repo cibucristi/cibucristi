@@ -22,7 +22,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 </p>
 
 # What im working on 👷
-- An [web app](https://aws.amazon.com/what-is/web-application/#:~:text=A%20web%20application%20is%20software,with%20customers%20conveniently%20and%20securely.) where designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
+- [betterdesign.dev](https://betterdesign.dev/) - an web application for designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
 - [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
 - Zen Gym - an web application for a local gym, using backend technologies like NestJS and Angular on frontend.
