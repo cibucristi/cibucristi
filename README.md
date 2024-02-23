@@ -26,6 +26,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
 - [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
 - Zen Gym - an web application for a local gym, using backend technologies like NestJS and Angular on frontend.
+- [winningvaults.shop](https://winningvaults.shop/) - an web application where you can open containers to recieve rewards.
 
 # Tech stack 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,vue,bots,electron,express,figma,github,js,mysql,nodejs,postgres,pr,sass,sequelize,tauri,ts,vercel,vite,vscode,postman,firebase,nestjs)](https://skillicons.dev)
