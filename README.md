@@ -24,7 +24,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 # What im working on 👷
 - [betterdesign.dev](https://betterdesign.dev/) - an web application for designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
-- [rockford.mp](https://discord.gg/5rncygfnW4) - an Romanian GTA V server powered by alt:V Multiplayer
+- [Mafia City Roleplay](https://mafiacity-rp.com/) - Grand Theft Auto V server powered by RAGE:MP.
 - Zen Gym - an web application for a local gym, using backend technologies like NestJS and Angular on frontend.
 - [winningvaults.shop](https://winningvaults.shop/) - an web application where you can open containers to recieve rewards.
 
