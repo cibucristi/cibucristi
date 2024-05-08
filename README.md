@@ -1,7 +1,5 @@
 # Hello there 👋
-My name is **[Christian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a frontend developer passionate about creating engaging and user-friendly interfaces. Currently, I'm honing my skills in Angular, constantly pushing the boundaries of what I can achieve on the frontend.
-
-In addition to my frontend expertise, I've recently embarked on a journey into backend development. The prospect of working on the server side and understanding the complete web development stack has intrigued me.
+My name is **[Christian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a self-thaught full stack developer passionate about creating engaging and user-friendly applications. Currently, I'm honing my skills in Angular and backend development, constantly pushing the boundaries of what I can achieve on the frontend and backend.
 
 <p align="center">
    <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
@@ -26,7 +24,6 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 - [rockford.mp](https://rockford.mp/) - Romanian RP+RPG Grand Theft Auto V server powered by RAGE Multiplayer.
 - [Mafia City Roleplay v2](https://mafiacity-rp.com/) - Grand Theft Auto V server powered by alt:V Multiplayer.
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
-- [winningvaults.shop](https://winningvaults.shop/) - an web application where you can open containers to recieve rewards.
 
 # Tech stack 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,vue,bots,electron,express,figma,github,js,mysql,nodejs,postgres,pr,sass,sequelize,tauri,ts,vercel,vite,vscode,postman,firebase,nestjs)](https://skillicons.dev)
@@ -40,7 +37,7 @@ In addition to my frontend expertise, I've recently embarked on a journey into b
 
 # Intersting things about me 🤌
 - I like dogs 🐕, especially [this kind of dogs](https://www.akc.org/dog-breeds/french-bulldog/).
-- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 2.7k subscribers.
+- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 3k subscribers.
 - I live in [Romania](https://ro.wikipedia.org/wiki/Rom%C3%A2nia).
 - I am rich-full creative of bright ideas when im intersted in things I like.
 - I am a fast researcher, open to learn new things.
