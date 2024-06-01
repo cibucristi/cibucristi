@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is **[Christian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a self-taught full stack developer passionate about creating engaging and user-friendly applications. Currently, I'm honing my skills in Angular and backend development, constantly pushing the boundaries of what I can achieve on the frontend and backend.
+My name is **[Cristian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a self-taught full stack developer passionate about creating engaging and user-friendly applications. Currently, I'm honing my skills in Angular and backend development, constantly pushing the boundaries of what I can achieve on the frontend and backend.
 
 <p align="center">
    <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
