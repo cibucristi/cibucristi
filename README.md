@@ -23,10 +23,9 @@ My name is **[Cristian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm
    </a>
 </p>
 
-# What im working on 👷
+# What I'm working on 👷
 - [betterdesign.dev](https://betterdesign.dev/) - an web application for designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
-- [rockford.mp](https://rockford.mp/) - Romanian RP+RPG Grand Theft Auto V server powered by RAGE Multiplayer.
-- [Mafia City Roleplay v2](https://mafiacity-rp.com/) - Grand Theft Auto V server powered by alt:V Multiplayer.
+- [rockford.mp](https://rockford.mp/) - Romanian RP+RPG Grand Theft Auto V server powered by FiveM.
 - User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
 
 # Tech stack 💻
