@@ -2,22 +2,6 @@
 My name is **[Cristian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm a self-taught full stack developer passionate about creating engaging and user-friendly applications. Currently, I'm honing my skills in Angular and backend development, constantly pushing the boundaries of what I can achieve on the frontend and backend.
 
 <p align="center">
-   <a href="https://www.instagram.com/cibu_cristi/" target="_blank">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
-   </a>
-   <a href="mailto:cibucristi1@gmail.com" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
-   </a>
-   <a href="https://open.spotify.com/user/cristicaol" target="_blank" rel="nofollow">
-      <img src="https://github.com/cibucristi/cibucristi/blob/main/spotify-2.png" alt="Spotify" width="32" align="center">
-   </a>
-</p>
-
-<p align="center">
-   Website: https://cibucristi.is-a.dev/
-</p>
-
-<p align="center">
    <a href="https://discord.com/users/773576280150900749" target="_blank" rel="nofollow">
       <img src="https://lanyard.cnrad.dev/api/773576280150900749" alt="Discord Presence" align="center">
    </a>
@@ -25,8 +9,6 @@ My name is **[Cristian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm
 
 # What I'm working on 👷
 - [betterdesign.dev](https://betterdesign.dev/) - an web application for designers, developers & engineers can easily create connections and also help them improve their skills to achieve maximum power.
-- [rockford.mp](https://rockford.mp/) - Romanian RP+RPG Grand Theft Auto V server powered by FiveM.
-- User Interfaces for [Grand Theft Auto V](https://www.rockstargames.com/gta-v) frameworks such as [FiveM](https://fivem.net/), [RAGE:MP](https://rage.mp/), [alt:V](https://altv.mp/#/).
 
 # Tech stack 💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,vue,bots,electron,express,figma,github,js,mysql,nodejs,postgres,pr,sass,sequelize,tauri,ts,vercel,vite,vscode,postman,firebase,nestjs)](https://skillicons.dev)
