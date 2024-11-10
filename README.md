@@ -16,14 +16,13 @@ My name is **[Cristian](https://en.wikipedia.org/wiki/Christian_name)**, and I'm
 # Goals for 2024 🧑‍🏫
 - [x] Finish [the Angular roadmap](https://roadmap.sh/angular)
 - [x] Finish [the Backend roadmap](https://roadmap.sh/backend)
-- [ ] Finish [the Cyber-Security roadmap](https://roadmap.sh/cyber-security)
+- [x] Finish [the Cyber-Security roadmap](https://roadmap.sh/cyber-security)
 - [ ] Finish [the DevOps roadmap](https://roadmap.sh/devops)
 - [ ] Open alpha & promote for the biggest project of mine.
 
 # Intersting things about me 🤌
 - I like dogs 🐕, especially [this kind of dogs](https://www.akc.org/dog-breeds/french-bulldog/).
-- I have an [YouTube](https://youtube.com/@iamCibu) channel with over 3k subscribers.
-- I live in [Romania](https://ro.wikipedia.org/wiki/Rom%C3%A2nia).
+- I live in [Spain](https://ro.wikipedia.org/wiki/Spain).
 - I am rich-full creative of bright ideas when im intersted in things I like.
 - I am a fast researcher, open to learn new things.
 
